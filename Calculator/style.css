@@ -1,0 +1,38 @@
+
+.main{
+    margin: 0 auto;
+    border: 2px solid grey;
+    width: 233px;
+    height: auto;
+    
+}
+.ans{
+    width: 173px;;
+    height: 53px;
+    background-color:#015C65;
+}
+button{
+    width: 55px;
+    height: 55px;
+    color: azure;
+    background-color: #028E9B;
+    font-size: 20px;
+}
+button:hover{
+    color: white;
+    background-color:#00e6ac;
+    
+}
+#in{
+    font-size: 20px;
+    width: 230px;
+    height: 60px;
+    color: azure;
+    background-color: #028E9B;
+   }
+#h1{
+    font-size: 20px;
+    width: 230px;
+    
+    
+}
